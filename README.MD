@@ -1,6 +1,6 @@
 Desafio 34: #boraCodar uma lista de compras
 
-![preview](./assets/preview.png)
+![preview](./assets/image.listadecompra.png)
 
 > Select customizado de um jeito FÁCIL (HTML, CSS e JS) | #boraCodar 34
 
